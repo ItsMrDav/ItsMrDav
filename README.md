@@ -1,5 +1,5 @@
 ### Hi there, I'm Davut 👋
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 I'm a junior front-end developer with a passion for creating beautiful, responsive, and user-friendly websites. My main areas of expertise are HTML, CSS, JavaScript, and React, and I'm always eager to learn more.
 
